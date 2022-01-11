@@ -6,7 +6,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 1. Accept the invite to collaborate on this repository (should be an email sent to the email address associated with your GitHub account - will be sent out at the start of the Guided Session)
 2. Clone down this repository (**don't fork it!**) to a good place on your computer
-3. Create a new branch on your local repository (I recommend naming your branch after yourself, so my branch is named _Lindsey_)
+3. Create a new branch on your local repository (I recommend naming your branch after yourself, so my branch will be named _Lindsey_)
 4. Find a GIF or image that summarizes how you're feeling today
 5. Use Markdown syntax and a text editor to add the GIF or image to this README.md file **under your name**
 6. Add and commit your local changes to your branch
