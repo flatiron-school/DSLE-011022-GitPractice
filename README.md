@@ -79,7 +79,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Tim
 
-
+![tired gif from tenor](https://c.tenor.com/ibAeZIaQgJoAAAAd/tom-and.gif)
 
 ### Timi
 
