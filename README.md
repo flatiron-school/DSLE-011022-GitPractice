@@ -38,7 +38,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Elijah
-
+![digtrio he-man](https://pbs.twimg.com/media/FI1tCqBUYAAoXna?format=jpg&name=360x360)
 
 
 ### Ilene
