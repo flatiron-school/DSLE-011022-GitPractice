@@ -67,7 +67,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Peter
-
+![Ready for dinner gif of Pooh from Giphy](https://media.giphy.com/media/jKaFXbKyZFja0/giphy.gif)
 
 
 ### Richard
