@@ -86,5 +86,5 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Will
-
+![Snorlax getting pulled gif from Giphy](https://media.giphy.com/media/l3vQXn15dRVNMru7e/giphy.gif)
 
