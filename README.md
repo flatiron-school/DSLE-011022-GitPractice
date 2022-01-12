@@ -31,7 +31,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Chris
 
-
+![2nd Day In DS Class Kid](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
 
 ### Dara
 
