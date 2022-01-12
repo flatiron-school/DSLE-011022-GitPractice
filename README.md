@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Lindsey
 
-![testing hank gif from tenor](https://tenor.com/bxrfa.gif)
+![new gif to test from giphy](https://media.giphy.com/media/iDC1eZnTKSBwSgc4rq/giphy.gif)
 
 ### Andrew (Jun)
 
