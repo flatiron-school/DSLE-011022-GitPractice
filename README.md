@@ -74,6 +74,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Samira
+![Happy Wednesday Giph from Giphy](https://giphy.com/gifs/wednesday-wed-happy-iibH5ymW6LFvSIVyUc)
 
 
 
