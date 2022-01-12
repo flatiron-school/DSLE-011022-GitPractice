@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Lindsey
 
-![Spongebob tea time gif from giphy](https://media.giphy.com/media/3ohzAgqMszJkSDxxCw/giphy.gif)
+![testing hank gif from tenor](https://tenor.com/bxrfa.gif)
 
 ### Andrew (Jun)
 
