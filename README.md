@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Lindsey
 
-![only Tuesday gif from Giphy](https://media.giphy.com/media/flL6zRWgnNDvSidTcX/giphy.gif)
+![new gif to test from giphy](https://media.giphy.com/media/iDC1eZnTKSBwSgc4rq/giphy.gif)
 
 ### Andrew (Jun)
 ![Nani the F*** gif from Giphy](https://media.giphy.com/media/1NVugSXiJGJZvWMOud/giphy.gif)
