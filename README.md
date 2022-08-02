@@ -54,6 +54,9 @@ I will either accept your pull request, or send you feedback on what you need to
 ### John
  ![my day](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif)   
 
+### Lera
+ !(https://media4.giphy.com/media/yr7n0u3qzO9nG/giphy.gif?cid=ecf05e47blvbc45bmd58nu5a2wb4rau92xfmrgypborte7zy&rid=giphy.gif&ct=g) 
+
 
 ### Nick K
 ![alyssa edwrds back rolls](https://media0.giphy.com/media/tG2PPAXybVbe8/giphy.gif?cid=ecf05e47ys6xokqqhva0krus479ip6zize78yluqjn1u7o32&rid=giphy.gif)
